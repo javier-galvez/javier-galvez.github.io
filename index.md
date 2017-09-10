@@ -32,7 +32,6 @@ If you want to know more about me and/or contact me, feel free to use the approp
 * My professional network @ [LinkedIn](https://www.linkedin.com/in/jjaviergalvez/)
 * Some of my projects @ [GitHub](https://github.com/jjaviergalvez)
 * Follow me @ [Twitter](https://twitter.com/_jjaviergalvez)
-* Resume @ [Here](documents/resume.pdf)
 * Email me @ <img src="images/email" alt="sample image" style="display:inline;margin:-6px;"> 
 
 
